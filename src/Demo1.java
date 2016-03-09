@@ -47,6 +47,14 @@ public class Demo1 {
 		Person2 personp = new Person2("sahil", 18);// pass the value through
 													// parameter.
 		personp.talk();
+		
+		
+		Person2 p=new Person2("ram", 10);
+		p.talk();
+	
+	
+	Person2 s=new Person2("ayush", 12);
+	s.talk();
 	}
 
 }
